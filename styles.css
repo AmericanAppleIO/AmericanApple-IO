@@ -53,4 +53,5 @@ body{
 .text{
     font-weight: 400;
     color: hsl(218, 44%, 22%);
+    text-decoration: none;
 }
